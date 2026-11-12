@@ -182,7 +182,7 @@ applications
 ## Clone Repository
 
 ```bash
-git clone https://github.com/sai-1435/FraudShieldAI.git
+git clone https://github.com/gopichanduoruganti-byte/FraudShieldAI.git
 ```
 
 ## Move to Project
@@ -270,7 +270,7 @@ Fraud Prediction
 
 # 👨‍💻 Developer
 
-**Dasari siva sai venkateswara rao**
+**Oruganti Gopichandu**
 
 B.Tech – Computer Science & Engineering
 
